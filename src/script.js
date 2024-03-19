@@ -203,7 +203,7 @@ house.add(doorLight);
 /**
  * Fog
  */
-const fog = new THREE.Fog("#262837", 1, 15);
+const fog = new THREE.Fog("#262837", 4, 30);
 scene.fog = fog;
 
 /**
